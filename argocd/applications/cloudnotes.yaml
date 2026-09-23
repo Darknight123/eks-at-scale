@@ -9,7 +9,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/bansikah22/eks-at-scale.git
+    repoURL: https://github.com/Darknight123/eks-at-scale.git
     targetRevision: master
     path: argocd/cloudnotes
   
